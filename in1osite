@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ru">
+<head>
+<title>ИгроPedia</title>
+<meta name="description" content="ИгроPedia">
+<meta name="keywords" content="ИгроPedia">
+<meta name="robots" content="all">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link rel="stylesheet" href="style.css" type="text/css">
+<!--[if IE]>
+<style type="text/css">
+.search{ 
+position:relative;
+float:left;
+margin:8px 18px 0 8px; 
+width:190px;height:34px; 
+background:url(im/bodsea.png) no-repeat;
+}
+.input_t{ 
+position:absolute;left:19px; top:6px; 
+border:0px; height:12px;width:117px; 
+line-height:16px;font-size:11px; 
+background: transparent;padding:2px 0 0 5px;
+color:#333;
+}
+
+.img_s{ 
+position:absolute; left:152px; top:4px;
+}
+</style>
+<![endif]-->
+</head>
+<body>
+
+<table border="0" cellpadding="0" cellspacing="0" width="920" align="center" class="t-content">
+<tr>
+<td class="header" valign="top">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="25%" valign="top">
+<h1>ИгроPedia.com</h1>
+</td>
+<td align="right" width="50%" valign="top">
+<div class="top" id="link">
+<a href="URL" class="urltop">Главная</a> / 
+<a href="URL" class="urltop">Контакт</a> / 
+<a href="URL" class="urltop">Гостевая</a>/
+</div>
+</td>
+<td align="right" width="25%" valign="top">
+<div class="search">
+<form name="web" method="get" action="http://www.yandex.ru/yandsearch">
+<input type="text" name="text" value="" class="input_t"> 
+<input type="image" title="Начать поиск" src="im/but.png" class="img_s">
+<input type="hidden" name="serverurl" value="URL">
+<input type="hidden" name="server_name" value="имя сайта">
+<input type="hidden" name="referrer1" value="URL"> 
+<input type="hidden" name="referrer2" value="имя сайта">
+</form>
+</div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="center">
+<tr>
+<td width="220" valign="top" class="left">
+<h2>Навигация</h2>
+<ul class="menu">
+<li><a href="../index.html">Главная</a></li>
+<li><a href="https://kanobu.ru/games/pc/popular/?years=2019" title="Игры 1019">Игры 2019</a></li>
+<li><a href="https://unitrade-express.com/catalog-shops/amazon.html?gclid=EAIaIQobChMI-NXWm7L05QIVlYKyCh0NcQycEAAYASAAEgKwzfD_BwE" title="Купить девайсы">Купить девайсы</a></li>
+<li><a href="http://gamebomb.ru/news" title="Новости">Новости</a></li>
+<li><a href="https://coop-land.ru/helpguides/guides/" title="Гайды">Гайды</a></li>
+<li><a href="https://arsplus.ru/wk/" title="Обзор техники">Обзор техники</a></li>
+<li><a href="https://cubiq.ru/mods/" title="Игровые моды">Игровые Моды</a></li>
+<li><a href="https://fakty.ua/280129-starejshij-didzhej-gigantskij-shestinogij-robot-v-prodazhu-postupila-kniga-rekordov-ginnessa-2019-foto-video" title="Книга Гиннесса">Книга Гиннесса</a></li>
+<li><a href="https://kanobu.ru/games/pc/popular/?years=2015-2019" title="Список игр">Список игр</a></li>
+<li><a href="https://www.speedrun.com/" title="Спидраны">Спидраны</a></li>
+<li><a href="https://www.hltv.org/" title="Турниры">Турниры</a></li>
+<li><a href="https://libertycity.ru/developing/articles/" title="Модмейкерам">Модмейкерам</a></li>
+</ul>
+<br> 
+<div align="center">
+<img src="im/image.gif" height="230" width="160" alt="">
+</div>
+
+</td>
+<td width="700" valign="top" class="right_text">
+<h2>Безумные рекорды в сфере игр</h2>
+
+<div class="photo" id="text">
+<img src="im/game1.jpg" height="180" width="240" alt="">
+<br> 
+</div>
+
+<p>
+По словам Гарета Дивза, одного из редакторов «Книги рекордов Гиннеса», очень часто к ним обращаются игроки с крайне специфичными идеями. Один из них заявил, что сможет пройти World of Warcraft: The Frozen Throne, обложившись льдом. Другой предложил запечатлеть как он проходит Halo в одном нижнем белье.
+
+Притом, что подобные предложения редакторы Книги вынуждены отклонять, в ней уже числится достаточно грандиозных рекордов, в некоторые из которых сложно поверить.
+</p>
+<h3>Самая большая коллекция видеоигр</h3>
+
+<div class="photo" id="text2">
+<img src="im/game2.jpg" height="180" width="240" alt="">
+<br> 
+<i>Антонио Ромеро Монтейро</i>
+</div>
+
+<p>
+Само собой, первый рекорд, который приходит на ум, когда речь заходит о видеоиграх, связан с их количеством. Интересно, что совсем недавно, а именно 2 февраля 2019 года в «Книге рекордов Гиннеса» появился новый обладатель самой большой коллекции в мире. Антонио Ромеро Монтейро из американского городка Ричмонд сумел собрать 20139 игр, на пересчитывание которых ушло восемь дней.
+
+Коллекция включает игры, разработанных для консолей всех поколений кроме первого, а самих приставок у Монтейро больше сотни, так что, при желании он может запустить поиграть в любой тайтл из своего собрания. А выбирать здесь есть из чего.
+
+Полные библиотеки (в рамках Северной Америки) игр для PSP, PS2, PS3, Xbox, Xbox 360, Game Boy, Nintendo 64 и многих других консолей, и это не учитывая представителей всевозможных других приставок, в том числе не самых распространенных, вроде TurboGrafx или Sega Pico.Также в его коллекции можно найти такие редкости, как MACS Basic Rifle Marksmanship Program, которую Nintendo разработала специально для армии США, серию образовательных игр для Dreamcast под названием Timeless Math, или платформер CJ the Elephant для Sega Game Gear.
+
+Сам Монтейро не спеша проходит игры коллекции одну за другой, но любимым его тайтлом до сих пор остается Castlevania IV, вышедшим на SNES в 1991 году.
+<h3>Самый большой контроллер</h3>
+<div class="photo" id="text2">
+<img src="im/game.jpg" height="180" width="240" alt="">
+<br>
+<i>Бен Аллен
+</div>
+
+<p>В 2012 году трое студентов из Делфтского технического университета установили рекорд, представив миру самый крупный в истории игровой контроллер, собранный по образу и подобию контроллера для NES. При этом речь идет не о сувенире, а о полностью функционирующем аппарате, который, правда, в 30 раз больше оригинала, и для управления им понадобится как минимум три человека. Весит геймпад около 120 килограмм.
+Авторы шутят, что для полноценной игры человек должен быть высотой в 52 метра, прямо как Колонна Нельсона в Лондоне. Мотивация для создания подобной машины? По словам, одного из студентов, Бена Аллена, авторам понадобилась лишь любовь к видеоиграм, если не считать четырех тысяч фунтов стерлингов и пяти месяцев усердной работы.
+«Как-то раз в пабе мы спонтанно решили отдать должное этому иконическому контроллеру, создав его абсурдно большую, но рабочую версию. Мы безумно рады оставить свой собственный след в истории индустрии», — рассказал Аллен.
+
+<h3>Коллекция Pokemon</h3>
+<div class="photo" id="text2">
+<img src="im/game5.jpg" height="180" width="240" alt="">
+
+<br>
+<i>Лиза Кортни
+</div>
+<p>Лиза Кортни не раз попадала в «Книгу рекордов Гиннеса». В 2015 году она официально стала обладательницей самой большой коллекции сувениров, связанных с мультфильмом «Король Лев», собрав 1555 предметов. Но этот результат ерунда по сравнению с ее главным увлечением.
+В девять лет Кортни влюбилась во вселенную покемонов и начала собирать все, что удавалось найти на эту тему, будь то мягкие игрушки, наклейки или коллекционные карточки. Учитывая то, что Кортни живет в Англии, делать это было нелегко.
+
+В 2009 году, когда Лизе уже стукнуло 21, она собрала коллекцию из 12113 наименований, официально став рекордсменом Книги.
+ детстве Лиза стала жертвой издевательств одноклассников, что вылилось в панические атаки и непрекращающуюся тревогу. Лишь ее увлечение Pokemon помогло ей преодолеть свои страхи, и поэтому родители всегда поддерживали ее непрекращающиеся поиски новых игрушек франшизы. Когда в 2014 году коллекция Лизы выросла до 16 с лишним тысяч предметов, ее мать уступила дочери свою комнату под склад предметов, а сама переехала в меньшую по площади.
+
+Наконец, 10 августа 2016 представители «Книги рекордов Гиннеса» насчитали 17127 памятных вещей Pokemon в коллекции Кортни, обновив ее результат.
+
+Кортни не планирует останавливаться на достигнутом и регулярно ездит в Японию, каждый раз отсылая домой по десятку коробок с новыми предметами.
+</p>
+<br>
+<p>
+
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="footer">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="220">Статистика</td>
+<td width="700">
+<p>
+Copyright &#169; 2010 «Site-Name» 
+<br> <br> 
+Design by <a href="http://help-html-css.narod.ru/" class="valid">Vlad Kozhurin</a>  
+</p>
+</td>
+</table> 
+</td>
+</tr>
+</table> 
+<!-- Счетчик -->
+
+<div style="display : none;">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t26.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+//--></script><!--/LiveInternet-->
+</div>
+
+<!-- Счетчик -->
+</body>
+</html>
